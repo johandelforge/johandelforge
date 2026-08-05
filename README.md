@@ -16,15 +16,13 @@ Pybara lets e-commerce merchants accept crypto payments (ICP, ckBTC, ckETH, ckUS
 - **Pybara Wallet** — a lightweight, non-custodial wallet with cross-merchant order history in one place
 
 ## Open source
-
 | Repo | What it is |
 |---|---|
-| `pybara-settle` | The payment-splitting canister. Open-sourced so anyone can verify the deployed code matches the source. |
-| `pybara-docs` | Documentation for the wallet, plugins, ... |
-
+| [`pybara-settle`](https://github.com/pybara/pybara-settle) | The blackholed payment-splitting canister. Open-sourced so anyone can verify the deployed code matches the source.|
+| [`pybara-swap`](https://github.com/pybara/pybara-swap) | The blackholed autoswap canister.|
 <!-- Replace the repo names above with proper [name](url) links once pinned — see note below on which org they need to sit under -->
 
-Most of the platform stays closed for now. `pybara-settle` is the part that actually touches funds, so that's the part built to be checked by anyone.
+Most of the platform stays closed for now. Open source repos are the part that actually touches funds, so that's the part built to be checked by anyone.
 
 ## Links
 
