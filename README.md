@@ -28,8 +28,8 @@ Most of the platform stays closed for now. Open source repos are the part that a
 
 ## Links
 
-- [pybara.com](https://pybara.com) — product
-- [yogabuild.eu](https://yogabuild.eu) — IC development house
+- [pybara.com](https://pybara.com)
+- [yogabuild.eu](https://yogabuild.eu)
 <!-- 
 - [docs.pybara.com](https://docs.pybara.com) — documentation
  -->
