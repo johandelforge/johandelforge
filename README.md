@@ -2,7 +2,7 @@
 
 Founder of **[Pybara](https://pybara.com)** — non-custodial crypto payment infrastructure for e-commerce, built on the Internet Computer.
 
-Ten years in full-stack web development. Now building production-grade decentralized applications through **[Yogabuild](https://yogabuild.eu)**, an Internet Computer development house registered in Estonia.
+Ten years in full-stack web development. Now building production-grade decentralized applications through **[Yogabuild](https://yogabuild.eu)**, an Internet Computer development house registered in Estonia.  Member of [ICP Hub Belgium](https://www.internetcomputer.be)'s builder community.
 
 **Currently:** onboarding early WooCommerce merchants and Pybara Donate recipients ahead of full launch.
 
