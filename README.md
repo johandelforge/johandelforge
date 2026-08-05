@@ -14,18 +14,22 @@ Pybara lets e-commerce merchants accept crypto payments (ICP, ckBTC, ckETH, ckUS
 - **Pybara for WooCommerce** — crypto checkout that sits alongside existing payment methods
 - **Pybara Donate** — a standalone crypto donation widget for any WordPress site
 - **Pybara Wallet** — a lightweight, non-custodial wallet with cross-merchant order history in one place
-
+<!-- 
 ## Open source
 | Repo | What it is |
 |---|---|
 | [`pybara-settle`](https://github.com/pybara/pybara-settle) | The blackholed payment-splitting canister. Open-sourced so anyone can verify the deployed code matches the source.|
 | [`pybara-swap`](https://github.com/pybara/pybara-swap) | The blackholed autoswap canister.|
+ -->
 <!-- Replace the repo names above with proper [name](url) links once pinned — see note below on which org they need to sit under -->
-
+<!-- 
 Most of the platform stays closed for now. Open source repos are the part that actually touches funds, so that's the part built to be checked by anyone.
+ -->
 
 ## Links
 
 - [pybara.com](https://pybara.com) — product
+<!-- 
 - [docs.pybara.com](https://docs.pybara.com) — documentation
+ -->
 - [yogabuild.eu](https://yogabuild.eu) — development house
