@@ -10,7 +10,7 @@ Ten years in full-stack web development. Now building production-grade decentral
 
 Pybara lets e-commerce merchants accept crypto payments (ICP, ckBTC, ckETH, ckUSDC, ckUSDT) without Pybara ever holding customer funds. Payments move directly from buyer to merchant through `pybara-settle`, an open-source canister designed to be immutable and independently auditable.
 
-- **Non-custodial by design** — funds never pass through a Pybara-controlled account
+- **Non-custodial by design** — buyer funds never pass through a Pybara-controlled account
 - **Pybara for WooCommerce** — crypto checkout that sits alongside existing payment methods
 - **Pybara Donate** — a standalone crypto donation widget for any WordPress site
 - **Pybara Wallet** — a lightweight, non-custodial wallet with cross-merchant order history in one place
